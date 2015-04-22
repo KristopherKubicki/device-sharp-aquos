@@ -1,7 +1,7 @@
 # Sharp Aquos Device Type
 This is a device type for the Sharp Aquos integration to SmartThings.  I believe it actually works with almost all Sharp TV models manufacturered since 2010. 
 
-<a href='http://ecx.images-amazon.com/images/I/81NwfXtTSyL._SX522_.jpg'>
+<img src='http://ecx.images-amazon.com/images/I/81NwfXtTSyL._SX522_.jpg'>
 
 I loosely based this on <a href='https://github.com/halkeye/sharp.aquos.devicetype.groovy'>Gavin Morgan's Sharp Remote</a>.  Most of the commands I found from a <a href='http://snpi.dell.com/sna/manuals/A1534250.pdf'>Sharp manual</a>.
 
