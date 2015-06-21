@@ -133,7 +133,7 @@ def request(body) {
 	
 // sleep up to 9 seconds before issuing the next command
 	
-    def cur = new BigDecimal(device.currentValue("blocked"))
+    def cur = new BigDecimal(device.currentValue("blocked") ?: 0)
     
     def waitTime = 0
     def cmds = []
