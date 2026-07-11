@@ -1,4 +1,7 @@
 # Sharp Aquos Device Type
+
+> **Legacy note:** This is an older SmartThings/Hubitat-era integration. It remains public for people maintaining classic Groovy SmartApps and device handlers, but it is not actively maintained for the current SmartThings platform.
+
 This is a device type for the Sharp Aquos integration to SmartThings.  I believe it actually works with almost all Sharp TV models manufacturered since 2010. 
 
 <img src='http://ecx.images-amazon.com/images/I/81NwfXtTSyL._SX522_.jpg'>
